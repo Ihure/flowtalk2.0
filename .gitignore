@@ -16,7 +16,7 @@ app/tests/coverage/
 coverage/
 modules/articles
 app
-
+bower_components
 # MEAN.js app and assets
 # ======================
 public/dist/
